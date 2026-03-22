@@ -10,7 +10,7 @@ This is a Full-Stack IoT prototype designed to demonstrate how a web interface c
 
 
 ### Simple Dashboard Interface
-![Control Dashboard](assets/your_dashboard_image_name.png)
+![Control Dashboard](assets/dashboard.png)
 ---
 
 ## The "Polycomp" Morse Code Signature
