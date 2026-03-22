@@ -8,6 +8,9 @@ This is a Full-Stack IoT prototype designed to demonstrate how a web interface c
 * * **Backend:** A **Python Flask** server that processes web requests and relays commands to hardware.
 * **Hardware:** An **Arduino (C++)** running a custom state machine to manage traffic cycles and Morse code encoding.
 
+
+### Simple Dashboard Interface
+![Control Dashboard](assets/your_dashboard_image_name.png)
 ---
 
 ## The "Polycomp" Morse Code Signature
@@ -18,6 +21,8 @@ To demonstrate custom data encoding and brand integration, I programmed a **"DAN
 * **Dash:** 600ms
 * **Intra-letter Space:** 200ms
 * **Inter-letter Space:** 400ms
+
+![Polycomp Morse Sequence](assets/polycomp_dance.gif)
 
 ### **Signal Mapping**
 | Letter | Morse Code | Visual Sequence |
